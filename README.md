@@ -9,7 +9,7 @@ any city. It's designed to be an easy-to-use tool for anyone interested in quick
 temperature, wind speed, weather conditions, and local time for any city in the world. The app also includes a visualization feature that
 displays the temperature using color-coded bars for a quick visual reference.
 
-## Learning Journey
+## Journey
 
 Ensuring accurate local time was crucial, achieved by converting UTC time provided by the API to the city's local time using the `pytz`
 library. Furthermore, handling and parsing JSON data from API responses efficiently was crucial for seamlessly extracting and displaying
@@ -20,3 +20,7 @@ it was essential for providing a smooth user experience and definitely a cool ne
 
 Contributions are welcome, although the whole thing is unfolding as a relatively small project. Everyone is able to use the code, play
 around or extend it. Have fun!
+
+## License
+
+**WeatherWidget** is released under the MIT License. You are free to use, modify, and distribute the code for both commercial and non-commercial purposes.
